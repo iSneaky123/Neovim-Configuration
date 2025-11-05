@@ -8,3 +8,5 @@
 - mason.org/mason.nvim > rafamadriz/friendly-snippets
 - saghen/blink.cmp
 - stevearc/conform.nvim
+- nvim-telescope/telescope.nvim
+- nvim-lualine/lualine.nvim
