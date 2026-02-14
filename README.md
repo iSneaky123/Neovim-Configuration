@@ -15,3 +15,5 @@
 - stevearc/aerial.nvim
 - akinsho/toggleterm.nvim
 - mrcjkb/rustaceanvim
+- saecki/crates.nvim
+- nvim-neo-tree/neo-tree.nvim
